@@ -1,0 +1,12 @@
+dockselection_processed_dic80_30_30 = 15008.59375
+dockselection_processed_dic80_30_0 = 15072.09375
+dockselection_processed_dic80_0_30 = 15111.34375
+dockselection_processed_dic80_0_0 = 15145.59375
+unloading_processed_dic80_30_30 = 14906.78125
+unloading_processed_dic80_30_0 = 15005.875
+unloading_processed_dic80_0_30 = 15110.65625
+unloading_processed_dic80_0_0 = 15144.375
+warehouse_processed_dic80_30_30 = 14449.6875
+warehouse_processed_dic80_30_0 = 14745.75
+warehouse_processed_dic80_0_30 = 14490.625
+warehouse_processed_dic80_0_0 = 14961.625

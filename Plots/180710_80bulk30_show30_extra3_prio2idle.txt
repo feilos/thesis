@@ -1,0 +1,16 @@
+cargo_at_taxilane_dic80_30_30 = 36.50441787941788
+cargo_at_taxilane_dic80_30_0 = 26.9697895010395
+cargo_at_taxilane_dic80_0_30 = 7.973882536382536
+cargo_at_taxilane_dic80_0_0 = 5.644425675675675
+cargo_at_dolly_unloading_dic80_30_30 = 2.085141632016632
+cargo_at_dolly_unloading_dic80_30_0 = 1.521602130977131
+cargo_at_dolly_unloading_dic80_0_30 = 2.0332640332640333
+cargo_at_dolly_unloading_dic80_0_0 = 1.493470634095634
+cargo_at_warehouse_dic80_30_30 = 229.7341800935551
+cargo_at_warehouse_dic80_30_0 = 172.3870517151767
+cargo_at_warehouse_dic80_0_30 = 253.89364604989606
+cargo_at_warehouse_dic80_0_0 = 177.4049506237006
+total_idle80_30_30 = 268.3237396049896
+total_idle80_30_0 = 200.87844334719335
+total_idle80_0_30 = 263.90079261954264
+total_idle80_0_0 = 184.54284693347194

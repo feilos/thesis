@@ -1,0 +1,16 @@
+Time_average_taxi_dic80_30_30 = 16.615775824438266
+Time_average_taxi_dic80_30_0 = 18.714800685228198
+Time_average_taxi_dic80_0_30 = 19.643342473374958
+Time_average_taxi_dic80_0_0 = 14.367964735901474
+Time_average_unloading_dic80_30_30 = 5.275793111881797
+Time_average_unloading_dic80_30_0 = 4.615023851465027
+Time_average_unloading_dic80_0_30 = 4.615023851465027
+Time_average_unloading_dic80_0_0 = 3.706746765323116
+Time_average_warehouse_dic80_30_30 = 9.334987299433012
+Time_average_warehouse_dic80_30_0 = 9.334658873790405
+Time_average_warehouse_dic80_0_30 = 10.865721491175375
+Time_average_warehouse_dic80_0_0 = 11.181749813957383
+average_TIS_dic80_30_30 = 41.104380953276284
+average_TIS_dic80_30_0 = 49.37040941314825
+average_TIS_dic80_0_30 = 42.69953614119487
+average_TIS_dic80_0_0 = 52.01293436890959
